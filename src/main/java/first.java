@@ -6,4 +6,8 @@ public class first {
     public void aaa(){
         System.out.println(44);
     }
+    
+    public void bbb(){
+        //哈哈哈哈
+    }
 }
